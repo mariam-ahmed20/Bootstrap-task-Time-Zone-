@@ -1,0 +1,55 @@
+main {
+    overflow: hidden;
+}
+.navv .collapse .nav-item :hover {
+    background-color: red;
+}
+
+.one {
+    background-color: rgb(241,241,243);
+}
+.first #h1 {
+    font-size: 90px;
+    color: rgb(18,35,52);
+}
+
+.second div {
+    text-align: center;
+}
+.second h5 {
+    color: red;
+}
+
+.three div {
+    padding-left: 0;
+    padding-right: 1.5rem;
+}
+.three .twoinOne {
+    padding-right: 0;
+}
+.three .twoinOne img {
+    height: 17.5rem;
+    width: 30rem;
+}
+
+.seven {
+    background-color: rgb(255,24,0);
+    color: white;
+}
+.seven i {
+    font-size: 3rem;
+}
+
+ul {
+    list-style-type: none;
+}
+span {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: rgb(255,24,0);
+}
+h1 {
+    font-weight: 900;
+    font-size: 3.5rem;
+    color: rgb(1,1,0);
+}
